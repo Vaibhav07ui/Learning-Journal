@@ -1,7 +1,7 @@
 # Week 1: April 10–17
 
 ## What I Learned
-- Started learning 2D sketching in SolidWorks
+- Started learning 2D sketching in AutoCAD 
 - Practiced using line, circle, rectangle
 - Learned how to use dimensions and fillets
 - Created my first model: an L-Bracket
