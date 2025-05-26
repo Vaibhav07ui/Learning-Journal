@@ -1,4 +1,4 @@
-# Week 1: April 10–17
+# Week 1:
 
 ## What I Learned
 - Started learning 2D sketching in AutoCAD 
