@@ -11,4 +11,4 @@ This journal tracks my weekly learning as I explore CAD designing and simulation
 ## Weeks Logged
 - [Week 1](./Week_01.md) 
 - [Week 2](Week-2_Drawing/README.md)
-- [week3](week3 drawing/README.md)
+- [week3](week3drawing/README.md)
