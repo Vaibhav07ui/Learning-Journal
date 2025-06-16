@@ -1,13 +1,14 @@
-# Learning Journal – CAD
+## Week 4
 
-This journal tracks my weekly learning as I explore CAD designing tools like AutoCAD.
+This week's drawing was created using various tools in AutoCAD such as:
 
----
+- Dimensions  
+- Fillet  
+- Center Mark  
+- Polyline  
+- Annotation  
+- And more
 
-## 🔧 Topics Covered
+A screenshot of the drawing is provided for quick viewing.  
+If anyone wants to access the actual DWG file, they can download it and open it using AutoCAD.
 
-- Sketching & modeling in CAD  
-- Applying constraints and dimensions  
-- Use of fillet, polyline, and annotation tools  
-- Assembly and part drawing (e.g., friction plate)  
-- Reflections & weekly progress
