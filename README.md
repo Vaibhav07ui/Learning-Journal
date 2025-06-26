@@ -13,3 +13,5 @@ This journal tracks my weekly learning as I explore CAD designing and simulation
 - [Week 2](Week-2_Drawing/README.md)
 - [Week 3](Week-3_Drawings/README.md)
 - [Week 4](Week-4-Drawing/README.md)
+- [Week 5](Week-5-Drawings/README.md)
+  
