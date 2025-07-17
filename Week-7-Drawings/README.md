@@ -29,9 +29,7 @@ Both were completed as part of my ongoing AutoCAD 2D practice to improve precisi
 ---
 
 ## 🖼 Screenshot
-A preview of the drawing is shown below:  
-
-![Week 7 Drawing Screenshot](./week7_screenshot.jpg)
+Screenshot of the given file is also available
 
 ---
 
