@@ -35,5 +35,5 @@ Screenshot of the given file is also available
 
 ## 📂 DWG File
 If you want to view the actual AutoCAD file:  
-➡ *Download:* [week7_geardrawing.dwg](./week7_geardrawing.dwg)  
+➡ *Download:* File  
 Open the file in AutoCAD to view or edit.
